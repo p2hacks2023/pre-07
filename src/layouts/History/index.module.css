@@ -1,0 +1,23 @@
+.container {
+  height: 100%;
+  color: #545454
+}
+
+.todayButton-container {
+  height: 10%;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+
+.photo-container {
+  height: 50%;
+  padding-bottom: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fridge-container {
+  height: 40%;
+}
