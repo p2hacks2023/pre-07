@@ -1,8 +1,10 @@
-# P2HACKS2023 アピールシート
+![image](https://github.com/p2hacks2023/pre-07/assets/38136957/7029e13e-2888-4066-82c9-c3b776e1d398)# P2HACKS2023 アピールシート
 
 ## プロダクト名
 
 Spoon
+
+![spoon](https://github.com/p2hacks2023/pre-07/assets/38136957/3b0294a9-084f-4c62-a7f0-dce38ef46977)
 
 ### コンセプト
 
